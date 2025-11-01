@@ -98,8 +98,8 @@ concepts make the system modular, error-fre, and easy to extend.
 <img width="986" height="734" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/b782dfc1-e286-42c3-af4c-e30a96faf319" />
 
 ## Student Details
-**Name** -> Sidharth Krishna S
-**RollNo** -> 2401720003
-**Course** -> BSc Computer Science
-**Semester** -> 3rd Semester
-**Assignment** -> Java Lab Assignment 3
+- **Name** -> Sidharth Krishna S
+- **RollNo** -> 2401720003
+- **Course** -> BSc Computer Science
+- **Semester** -> 3rd Semester
+- **Assignment** -> Java Lab Assignment 3
